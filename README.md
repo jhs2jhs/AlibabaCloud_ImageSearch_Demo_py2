@@ -6,7 +6,7 @@ Pls set environment for key and ID by:
 ```sh
 export accessKeyId="xx"
 export accessKeySecret="yy"
-
+```
 
 # This works only with previous version of API and is now deprecated.
 
