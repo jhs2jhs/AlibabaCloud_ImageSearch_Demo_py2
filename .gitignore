@@ -1,5 +1,10 @@
-ali_config.py
+.DS_Store
 
+ali_config.py
+set_secret.sh
+image_auto_scraped/img/*
+image_auto_scraped/htm/*
+image_auto_scraped/obj/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
